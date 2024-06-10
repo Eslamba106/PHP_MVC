@@ -4,7 +4,7 @@
 
         "psr-4": {
             "SecTheater\\": "src" ,
-            "SecTheater\\App\\": "App"
+            "App\\": "App"
         }
     },
     "require": {

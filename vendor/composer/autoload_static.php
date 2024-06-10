@@ -20,7 +20,6 @@ class ComposerStaticInit57825512de4cc4aa5daa8619fedbba6a
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
             'Symfony\\Component\\VarDumper\\' => 28,
-            'SecTheater\\PhpMvc\\App\\' => 22,
             'SecTheater\\' => 11,
         ),
         'P' => 
@@ -34,6 +33,10 @@ class ComposerStaticInit57825512de4cc4aa5daa8619fedbba6a
         'D' => 
         array (
             'Dotenv\\' => 7,
+        ),
+        'A' => 
+        array (
+            'App\\' => 4,
         ),
     );
 
@@ -54,10 +57,6 @@ class ComposerStaticInit57825512de4cc4aa5daa8619fedbba6a
         array (
             0 => __DIR__ . '/..' . '/symfony/var-dumper',
         ),
-        'SecTheater\\PhpMvc\\App\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/App',
-        ),
         'SecTheater\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
@@ -73,6 +72,10 @@ class ComposerStaticInit57825512de4cc4aa5daa8619fedbba6a
         'Dotenv\\' => 
         array (
             0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
+        ),
+        'App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/App',
         ),
     );
 
